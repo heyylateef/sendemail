@@ -1,0 +1,14 @@
+
+Name: {{contactName}}
+
+
+Email: {{contactEmail}}
+
+{% if contactDate %}
+Date: {{contactDate}}
+{% endif %}
+
+
+{{contactMessage}}
+                                       
+© 2022 Lateef Lab
